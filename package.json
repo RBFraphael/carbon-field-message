@@ -1,6 +1,6 @@
 {
   "name": "carbon-field-message",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "scripts": {
     "start": "npm run development -- --watch",
     "build": "npm run development && npm run production",

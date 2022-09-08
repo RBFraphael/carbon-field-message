@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Carbon Field Message
  * Description: Message Field extension for Carbon Fields.
- * Version: 3.0.0
+ * Version: 1.0.0
  * Author: rbfraphael
  * Author URI: https://github.com/rbfraphael
  * Plugin URI: https://github.com/rbfraphael/carbon-field-message
